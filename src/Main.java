@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Digite o graus C°");
         double Tc = leitura.nextDouble();
         System.out.println("Digite o F°");
-        double Tf = leitura.nextDouble();30
+        double Tf = leitura.nextDouble();
         System.out.println("Digite K°");
         double Tk = leitura.nextDouble();
 
